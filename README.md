@@ -42,10 +42,13 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
+- Winner 
 https://github.com/omart980/Memory-Game/blob/main/Winner.gif
 
+- Lose 
 https://github.com/omart980/Memory-Game/blob/main/Lose.gif
 
+- Start/ Stop
 https://github.com/omart980/Memory-Game/blob/main/Start:%20Stop.gif
 
 
