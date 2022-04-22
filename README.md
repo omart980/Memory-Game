@@ -44,15 +44,15 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 - Winner 
 
-(https://github.com/omart980/Memory-Game/blob/main/Winner.gif)
+![](https://github.com/omart980/Memory-Game/blob/main/Winner.gif)
 
 - Lose 
 
-(https://github.com/omart980/Memory-Game/blob/main/Lose.gif)
+![](https://github.com/omart980/Memory-Game/blob/main/Lose.gif)
 
 - Start/ Stop
 
-(https://github.com/omart980/Memory-Game/blob/main/Start:%20Stop.gif)
+![](https://github.com/omart980/Memory-Game/blob/main/Start:%20Stop.gif)
 
 
 ## Reflection Questions
